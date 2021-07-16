@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif; 
+}
+
+
+.logo{
+    height: 40px;
+    margin-right: 5px;
+}
+
+.table-back{
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #212833;
+    height: 100vh;
+}
+
+.table-back h2{
+    width: 90%;
+    margin: 0px auto;
+    padding: 10px 0px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.table-back table{
+    float: center;
+    width: 90%;
+    margin: 5px auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.table-back table thead tr th{
+    color: white;
+}
+
+.table-back table thead tr{
+    background-color: rgb(65, 24, 216);
+}
+
+.footer-box{
+    background-color: rgb(27, 27, 27);
+    height: 40px;
+}
+
+.footer-text{
+    color: rgba(255, 255, 255, 0.7);
+    text-shadow: 0 1px rgba(255, 255, 255, 0.1);
+    text-align: center; 
+    padding-top: 10px;
+}
